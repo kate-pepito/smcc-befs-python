@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+xgboost
+skl2onnx
+onnxmltools
+onnx
+pydantic
+fastapi[standard]
+onnxruntime
+websockets
+uvicorn
+httpx
+python-dotenv
